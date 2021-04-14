@@ -1,0 +1,23 @@
+{
+  "name": "freecode-tut1",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  },
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
+  "version": "1.0.0",
+  "keywords": [
+    "package.json",
+    "node",
+    "app"
+  ],
+  "author": "Joseph Ebin",
+  "license": "ISC"
+}
